@@ -2,6 +2,12 @@
 
 ### Hi there 👋
 
+- 🔭 I’m currently working on Clever Advertising
+- 🌱 I’m currently learning Phalcon
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about Symfony, Phalcon, Laravel
+- 📫 How to reach me: pgalocha93@hotmail.com
+
 <!--
 **pgalocha/pgalocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
