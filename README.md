@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 🌱 I’m currently learning Phalcon
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Symfony, Phalcon, Laravel
 - 📫 How to reach me: pgalocha93@hotmail.com
 
