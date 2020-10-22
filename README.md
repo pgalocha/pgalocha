@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pgalocha&show_icons=true&count_private=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pgalocha&show_icons=true&theme=tokyonight&count_private=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 ### Hi there 👋
 - 🌱 I’m currently learning Phalcon
