@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pgalocha&theme=radical&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pgalocha&theme=default&show_icons=true&count_private=true" />
 
 ### Hi there 👋
 - 🌱 I’m currently learning Phalcon
@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgalocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pgalocha)](https://github.com/anuraghazra/github-readme-stats)
