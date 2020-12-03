@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Symfony, Phalcon, Laravel
 - 📫 How to reach me: pgalocha93@hotmail.com
-
+- <a href="https://dev.to/pgalocha">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pedro Galocha's DEV Profile" height="30" width="30">
+</a>
 <!--
 **pgalocha/pgalocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
