@@ -1,29 +1,54 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pgalocha&theme=default&show_icons=true&count_private=true" />
+## 👋 Hi, I'm Pedro Galocha!
 
-### Hi there 👋
-- 🌱 I’m currently working with Phalcon
-- 👯 I’m open to collaborate on open source
-- 💬 Ask me about Symfony, Phalcon, Laravel
-- 📫 How to reach me: pgalocha93@hotmail.com
-- <a href="https://dev.to/pgalocha">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pedro Galocha's DEV Profile" height="30" width="30">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-galocha-65a784a6/)
+[![GitHub followers](https://img.shields.io/github/followers/pgalocha?label=Follow&style=social)](https://github.com/pgalocha)
+
+---
+
+### 🚀 About Me
+
+I'm a passionate software developer with a love for open-source projects and building innovative solutions. I have experience working in a variety of technologies, ranging from front-end design to back-end logic and DevOps. My aim is to continuously learn and apply new technologies to real-world challenges.
+
+- 🔭 I’m currently working on **[NEYL ELO FINDER](https://github.com/pgalocha/laravel-docker-app-sand-box)**
+- 🌱 I’m learning **[Laravel]** and **[Angular]**
+- 💬 Ask me about **Phalcon, JavaScript, MYSQL, AWS**
+- 📫 How to reach me: **[EMAIL](mailto:pgalocha93@hotmail.com)**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-MYSQL-00599C?style=flat&logo=mysql&logoColor=white)
+
+#### Frameworks & Libraries
+![Symphony](https://img.shields.io/badge/-Symphony-61DAFB?style=flat&logo=symphony&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-F05032?style=flat&logo=laravel&logoColor=white)
+![Phalcon](https://img.shields.io/badge/-Phalcon-092E20?style=flat&logo=phalcon&logoColor=white)
+
+#### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<a href="https://github.com/yourusername">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pgalocha&show_icons=true&theme=radical&count_private=true&hide=contribs" />
 </a>
-<!--
-**pgalocha/pgalocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/yourusername">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgalocha&layout=compact&theme=radical" />
+</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔥 My Contributions
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pgalocha&theme=dark)](https://git.io/streak-stats)
 
+---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pgalocha)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgalocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+### 🌍 Let's Connect!
+- LinkedIn: [linkedin.com/in/pedro-galocha](https://www.linkedin.com/in/pedro-galocha-65a784a6/)
