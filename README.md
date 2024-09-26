@@ -5,17 +5,6 @@
 
 ---
 
-### 🚀 About Me
-
-I'm a passionate software developer with a love for open-source projects and building innovative solutions. I have experience working in a variety of technologies, ranging from front-end design to back-end logic and DevOps. My aim is to continuously learn and apply new technologies to real-world challenges.
-
-- 🔭 I’m currently working on **[NEYL ELO FINDER](https://github.com/pgalocha/laravel-docker-app-sand-box)**
-- 🌱 I’m learning **[Laravel]** and **[Angular]**
-- 💬 Ask me about **Phalcon, JavaScript, MYSQL, AWS**
-- 📫 How to reach me: **[EMAIL](mailto:pgalocha93@hotmail.com)**
-
----
-
 ### 🛠️ Tech Stack
 
 #### Languages
