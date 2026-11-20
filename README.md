@@ -34,15 +34,5 @@ Currently focused on decomposing legacy monoliths into fast, domain-isolated **G
 
 ---
 
-### 📊 GitHub Stats
-
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgalocha&show_icons=true&theme=tokyonight)
-
-### 🔥 My Contributions
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pgalocha&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
 ### 🌍 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/pedro-galocha](https://www.linkedin.com/in/pedro-galocha)
